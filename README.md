@@ -1,1 +1,2 @@
-# Lab 6 - Starter
+Kilhoon Kim
+[site]
