@@ -1,2 +1,2 @@
-Kilhoon Kim
+Kilhoon Kim\n
 [Expose & Explore](https://northorangeshore.github.io/CSE110_LAB6/index.html)
